@@ -1,4 +1,2 @@
 # creaturenex
-My name is Oscar Romero and I am building the necessary skills to become a software engineer. My background as an engineer in the biopharma industry built great problem solving skills. After taking time to reflect on my future career, I  wanted to follow my passion to create. The melding of hardware and software and bringing life to your ideas is what excites me the most.
-
-I am accomplishing this through the Launch School Program. Don't worry you will be hearing from me soon!
+My name is Oscar Romero and I am a software engineer. I am fascinated by the creativity and fusion of software and hardware. I am a maker and have messed with all sorts of stuff like building a pc/hackintosh, arduinos, raspberry pi’s, LEDs, 3D printers and woodworking. I have fun making and breaking things. I love learning and looking for opportunities to learn and grow with others.
