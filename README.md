@@ -1,2 +1,4 @@
 # creaturenex
-My name is Oscar Romero and I am a software engineer. I am fascinated by the creativity and fusion of software and hardware. I am a maker and have messed with all sorts of stuff like building a pc/hackintosh, arduinos, raspberry pi’s, LEDs, 3D printers and woodworking. I have fun making and breaking things. I love learning and looking for opportunities to learn and grow with others.
+Open Source Software Engineer with multiple contributions to open source products. Most recently I have focused on SeeQR, an open source all-in-one SQL database management tool. It abstracts the interface for PostgreSQL and MySQL to streamline database design. Past works includes Scheduler, Ruby on Rails, and New Relic’s Ruby agent.
+
+Experienced delivering React/Stimulus applications built with Node.js/Express or Ruby/Rails via CI/CD pipeline to production/staging environments within Docker containers on platforms such as Heroku and AWS Elastic Beanstalk. Specializing in Linux / Docker environments.
